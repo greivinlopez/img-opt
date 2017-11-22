@@ -1,0 +1,15 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "description": "Image optimizer POC for websites.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greivin López",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image": "^4.1.0"
+  }
+}
